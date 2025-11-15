@@ -7,11 +7,6 @@
  * ! Please do not change the below code, it is important for the project.
  * Thank you for using
  *
- * Vietnamese:
- * ! Vui lòng không thay đổi mã bên dưới, nó rất quan trọng đối với dự án.
- * Cảm ơn bạn đã sử dụng
- */
-
 const { spawn } = require("child_process");
 const log = require("./logger/log.js");
 const http = require("http");
