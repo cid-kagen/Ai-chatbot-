@@ -31,34 +31,15 @@
 
 ---
 
-## 🌟 **Credits & Development**
+## 🌟 Credits & Development
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://i.imgur.com/ntkhang.gif" width="120">
 ### 🤖 AI Engine
-**[CID-Kageno](https://github.com/cid-kageno)**
-<sub>*Original AI Engine / Core Developer*</sub>
-<img src="https://img.shields.io/badge/Role-AI%20Engine-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-</td>
-<td align="center" width="50%">
-<img src="https://i.imgur.com/neokex.gif" width="120">
-### 🔧 Bot Modification & Enhancements
-**[NeoKEX](https://github.com/NeoKEX)**
-<sub>*Custom Features & Integrations*</sub>
-<p align="center">
-<a href="https://github.com/NeoKEX">
-<img src="https://img.shields.io/badge/GitHub-NeoKEX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub">
-</a>
-</p>
-</td>
-</tr>
-</table>
+**[CID-Kageno](https://github.com/cid-kageno)**  
+<sub>*Core AI Engine Developer*</sub>
 
 ---
 
-## 📑 **Table of Contents**
+## 📑 Table of Contents
 
 - 📝 [Note](#-note)  
 - 🚧 [Requirements](#-requirement)  
@@ -84,7 +65,7 @@
 ## 🚧 **Requirement**
 
 - **Node.js 20.x** [Download](https://nodejs.org)  
-- Basic knowledge of:
+- Knowledge of:
   - JavaScript / Node.js
   - Command-line interface
   - API key setup for AI engine
@@ -93,8 +74,8 @@
 
 ## 📝 **Tutorial**
 
-- 📱 **For Mobile / Replit:** [Video Guide](https://www.youtube.com/watch?v=grVeZ76HlgA)  
-- 💻 **For VPS / Windows:** [Video Guide](https://www.youtube.com/watch?v=uCbSYNQNEwY)  
+- 📱 **For Mobile / Replit:** Add link to video guide  
+- 💻 **For VPS / Windows:** Add link to video guide  
 - **Step-by-step written guide:** Add instructions for installing Node.js, cloning repo, adding API keys, running the bot.
 
 ---
@@ -119,7 +100,7 @@
 
 - 🤖 **Chat**: Talk with AI  
 - 📝 **Custom Commands**: Add intents & responses  
-- 🌐 **Multi-language Support**: English & others  
+- 🌐 **Multi-language Support**  
 - 🎨 **Optional AI Image Generation**  
 - 📊 **Dashboard Monitoring**  
 
@@ -127,15 +108,14 @@
 
 ## 💭 **Support**
 
-- **Discord Community:** [Join](https://discord.com/invite/DbyGwmkpVY)  
-- **Telegram Group:** [Join](https://t.me/CID_Kageno_AISupport)  
+- **Discord Community:** Add link  
+- **Telegram Group:** Add link  
 
 ---
 
 ## 📚 **Supported Languages**
 
-- 🇺🇸 English (`en`)  
-- 🇻🇳 Vietnamese (`vi`)  
+- 🇺🇸 English (`en`)    
 - Configurable in `config.json` & `languages/` folder
 
 ---
@@ -150,7 +130,6 @@
 
 ## 📸 **Screenshots**
 - Chat interface, dashboard, AI response examples, image generation (if enabled).  
-- Include screenshots as collapsible sections.
 
 ---
 
@@ -163,5 +142,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=70&animation=twinkling&fontColor=fff&desc=Made%20with%20❤️%20by%20CID-Kageno%20AI%20%7C%20Modified%20by%20NeoKEX&descSize=14&descAlignY=90" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=70&animation=twinkling&fontColor=fff&desc=Made%20with%20❤️%20by%20CID-Kageno&descSize=14&descAlignY=90" width="100%"/>
 </div>
